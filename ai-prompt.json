@@ -27,6 +27,7 @@
       "instruction":"Chỉ trả về JSON theo đúng định dạng output_format. Không giải thích thêm."
    },
    "user":{
+      "Auto":"Tự nhiên",
       "Action":"Hành động, kịch tính",
       "Comedy":"Hài hước, vui nhộn",
       "Drama":"Giật gân, drama",
