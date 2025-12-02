@@ -27,12 +27,12 @@
       "instruction":"Chỉ trả về JSON theo đúng định dạng output_format. Không giải thích thêm."
    },
    "user":{
-      "Auto":"Tự nhiên",
-      "Action":"Hành động, kịch tính",
-      "Comedy":"Hài hước, vui nhộn",
-      "Drama":"Giật gân, drama",
-      "Horror":"Kinh dị, huyền bí",
-      "Romance":"Lãng mãn, cảm động",
-      "Adventure":"Phiêu lưu, hấp dẫn"
+      "auto":"Tự nhiên",
+      "action":"Hành động, kịch tính",
+      "comedy":"Hài hước, vui nhộn",
+      "drama":"Giật gân, drama",
+      "horror":"Kinh dị, huyền bí",
+      "romance":"Lãng mãn, cảm động",
+      "adventure":"Phiêu lưu, hấp dẫn"
    }
 }
